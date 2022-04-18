@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Codelab01.2_PartB_HomeWork</string>
+    <string name="btn_toast">Toast</string>
+    <string name="btn_count">Count</string>
+    <string name="btn_0">0</string>
+    <string name="toast_message">Hello Toast</string>
+    <string name="btn_zero">Zero</string>
+</resources>
